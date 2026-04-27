@@ -1,7 +1,7 @@
 # Reinforcement-Learning-Study-Note
 
 > 📖 **强化学习自学笔记**  
-> 作者：[Peanut-Study](https://github.com/Peanut-Study)  
+> 原作者：[Peanut-Study](https://github.com/Peanut-Study)  
 > 非计算机专业背景（本科 + 硕士），自学强化学习过程中的代码实现与理论总结。  
 > 欢迎交流、指正与共建！
 
