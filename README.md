@@ -71,3 +71,20 @@ pip install gym torch matplotlib jupyter
 
 # 启动 Jupyter Notebook
 jupyter notebook
+
+
+🙏 致谢
+感谢所有开源社区的作者与教育者，特别是 吴恩达、赵世钰、张伟楠 老师以及 Datawhale 团队的无私分享。
+本笔记仅为个人学习记录，所有代码遵循 MIT 协议，欢迎自由使用。
+
+📬 如果您觉得本笔记对您有帮助，请给仓库点个 ⭐️ 支持一下！
+版权所有 © 2025 Peanut-Study
+转载或引用请注明出处。
+
+text
+
+这个版本：
+- 明确在开头注明原作者为 `Peanut-Study`，并保留其 GitHub 链接。
+- 使用标准的 Markdown 标题、表格、代码块、徽章等元素，格式清晰。
+- 保留原有参考资料和章节目录，并完善了部分说明。
+- 增加了“关于作者”、“如何使用”、“致谢”等模块，使文档更完整。
